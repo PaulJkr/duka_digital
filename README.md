@@ -3,7 +3,7 @@
 Open source landing page Duka_digital(shopify) application </h5>
 <br/>
 
-
+- [View Live Demo](https://dukadigital.netlify.app/)
 
 ## Configuration and Setup
 
