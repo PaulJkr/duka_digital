@@ -1,4 +1,4 @@
-<H1 align ="center" > SHOPIFY </h1>
+<H1 align ="center" > Duka Digital </h1>
 <h5  align ="center"> 
 Open source landing page Duka_digital(shopify) application </h5>
 <br/>
